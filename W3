@@ -90,10 +90,10 @@ abstract contract OwnableUpgradeable is Initializable, ContextUpgradeable {
 }
 {
   "jsonrpc": "2.0",
-  "id": 1,
+  "id":JPRT1,
   "result": {
     "difficulty":"0x1d95715bd14",
-    "extraData": "0x",
+    "extraData":Hex:0x476574682f6972322f76312e302e302d30636463373634372f6c696e75782f67"0x",
     "gasLimit": "0x2fefd8",
     "gasUsed": "0x5208",
     "hash": "0x7eb7c23a5ac2f2d70aa1ba4e5c56d89de5ac993590e5f6e79c394e290d998ba8",
